@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8fuTMnoRazqvSg3quwusJT3+3jH9yC019ZQDbWzGeVi3W/wCdSdpYa6Oq3ecqZ1qWoloR64ppPtBrNvxoMo2IA==",
+  "dgSpecHash": "7clXLx+OLcZCHbIoS2IKnEykFJYMwW6Js6O35KaY8CekG/a6AEXlpNRoPXbEbaoz3KI9d+yZbbgK4ZajTV8f6Q==",
   "success": true,
-  "projectFilePath": "/Users/appperfect/Desktop/RestAPIsTest/MyMinimalApi.Tests/MyMinimalApi.Tests.csproj",
+  "projectFilePath": "/Users/appperfect/Desktop/REST-APIs-Xunit-Tests/MyMinimalApi.Tests/MyMinimalApi.Tests.csproj",
   "expectedPackageFiles": [
     "/Users/appperfect/.nuget/packages/coverlet.collector/3.2.0/coverlet.collector.3.2.0.nupkg.sha512",
     "/Users/appperfect/.nuget/packages/microsoft.aspnetcore.mvc.testing/7.0.5/microsoft.aspnetcore.mvc.testing.7.0.5.nupkg.sha512",

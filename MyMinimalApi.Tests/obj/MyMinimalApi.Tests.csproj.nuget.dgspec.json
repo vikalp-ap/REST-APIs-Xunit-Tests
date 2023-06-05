@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/appperfect/Desktop/RestAPIsTest/MyMinimalApi.Tests/MyMinimalApi.Tests.csproj": {}
+    "/Users/appperfect/Desktop/REST-APIs-Xunit-Tests/MyMinimalApi.Tests/MyMinimalApi.Tests.csproj": {}
   },
   "projects": {
-    "/Users/appperfect/Desktop/RestAPIsTest/CRUDwithMinimalAPI/CRUDwithMinimalAPI.csproj": {
+    "/Users/appperfect/Desktop/REST-APIs-Xunit-Tests/CRUDwithMinimalAPI/CRUDwithMinimalAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/appperfect/Desktop/RestAPIsTest/CRUDwithMinimalAPI/CRUDwithMinimalAPI.csproj",
+        "projectUniqueName": "/Users/appperfect/Desktop/REST-APIs-Xunit-Tests/CRUDwithMinimalAPI/CRUDwithMinimalAPI.csproj",
         "projectName": "CRUDwithMinimalAPI",
-        "projectPath": "/Users/appperfect/Desktop/RestAPIsTest/CRUDwithMinimalAPI/CRUDwithMinimalAPI.csproj",
+        "projectPath": "/Users/appperfect/Desktop/REST-APIs-Xunit-Tests/CRUDwithMinimalAPI/CRUDwithMinimalAPI.csproj",
         "packagesPath": "/Users/appperfect/.nuget/packages/",
-        "outputPath": "/Users/appperfect/Desktop/RestAPIsTest/CRUDwithMinimalAPI/obj/",
+        "outputPath": "/Users/appperfect/Desktop/REST-APIs-Xunit-Tests/CRUDwithMinimalAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/appperfect/.nuget/NuGet/NuGet.Config"
@@ -73,14 +73,14 @@
         }
       }
     },
-    "/Users/appperfect/Desktop/RestAPIsTest/MyMinimalApi.Tests/MyMinimalApi.Tests.csproj": {
+    "/Users/appperfect/Desktop/REST-APIs-Xunit-Tests/MyMinimalApi.Tests/MyMinimalApi.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/appperfect/Desktop/RestAPIsTest/MyMinimalApi.Tests/MyMinimalApi.Tests.csproj",
+        "projectUniqueName": "/Users/appperfect/Desktop/REST-APIs-Xunit-Tests/MyMinimalApi.Tests/MyMinimalApi.Tests.csproj",
         "projectName": "MyMinimalApi.Tests",
-        "projectPath": "/Users/appperfect/Desktop/RestAPIsTest/MyMinimalApi.Tests/MyMinimalApi.Tests.csproj",
+        "projectPath": "/Users/appperfect/Desktop/REST-APIs-Xunit-Tests/MyMinimalApi.Tests/MyMinimalApi.Tests.csproj",
         "packagesPath": "/Users/appperfect/.nuget/packages/",
-        "outputPath": "/Users/appperfect/Desktop/RestAPIsTest/MyMinimalApi.Tests/obj/",
+        "outputPath": "/Users/appperfect/Desktop/REST-APIs-Xunit-Tests/MyMinimalApi.Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/appperfect/.nuget/NuGet/NuGet.Config"
@@ -96,8 +96,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/appperfect/Desktop/RestAPIsTest/CRUDwithMinimalAPI/CRUDwithMinimalAPI.csproj": {
-                "projectPath": "/Users/appperfect/Desktop/RestAPIsTest/CRUDwithMinimalAPI/CRUDwithMinimalAPI.csproj"
+              "/Users/appperfect/Desktop/REST-APIs-Xunit-Tests/CRUDwithMinimalAPI/CRUDwithMinimalAPI.csproj": {
+                "projectPath": "/Users/appperfect/Desktop/REST-APIs-Xunit-Tests/CRUDwithMinimalAPI/CRUDwithMinimalAPI.csproj"
               }
             }
           }
